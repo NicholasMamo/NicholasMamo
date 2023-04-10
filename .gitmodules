@@ -1,0 +1,3 @@
+[submodule "blog/hugo-theme-mini"]
+	path = blog/hugo-theme-mini
+	url = https://github.com/nodejh/hugo-theme-mini
