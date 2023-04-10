@@ -3,3 +3,4 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 theme = 'hugo-theme-mini'
 canonifyUrls = true
+googleAnalytics = "UA-155003028-2"
