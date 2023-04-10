@@ -8,9 +8,7 @@ draft: false
 ---
 
 Events have been a big part of my life since 2016.
-But no, not those kind of events.
-
-My name is Nicholas Mamo and I'm not a party animal—I'm a doctoral student at the University of Malta.
+My name is Nicholas Mamo and I'm a doctoral student at the University of Malta.
 2016 is the year when I started working on my undergraduate dissertation and the subject was events.
 
 More specifically, the research area I chose for my undergraduate dissertation was Topic Detection and Tracking: a subset of Artificial Intelligence that builds timelines for events.
