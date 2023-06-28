@@ -1,6 +1,6 @@
 # Hello there :wave:
 
-I'm Nicholas, a PhD candidate in AI, researcher and full-stack developer.
+I'm Nicholas, a PhD graduand in AI, researcher and full-stack web developer.
 
 **Connect with me!**
 
