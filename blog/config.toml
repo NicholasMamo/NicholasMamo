@@ -1,6 +1,6 @@
 baseURL = "http://nicholasmamo.github.io/NicholasMamo"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Blog | Nicholas Mamo"
 theme = 'hugo-theme-mini'
 canonifyUrls = true
 googleAnalytics = "G-8L2KYY5HMZ"
