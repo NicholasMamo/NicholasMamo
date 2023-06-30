@@ -1,6 +1,6 @@
 ---
 title: "If Machines Could Watch Football"
-date: 2023-06-30T12:04:45+02:00
+date: 2020-07-17T12:04:45+02:00
 draft: false
 tags: 
 - media
