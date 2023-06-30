@@ -5,7 +5,7 @@
     {{ $pages := .Site.RegularPages }}
     {{ $paginator := .Paginate ($pages) }}
     {{ range $paginator.Pages }}
-    	{{ if ne .Title "About" }}
+    	{{ if not (in .RelPermalink "pages") }}
 		{{ $title := .Title }}
 		{{ $summary := .Summary }}
 		<section class="item">
