@@ -24,5 +24,9 @@ I have experience in event summarization, event modeling and mining, and other r
 This blog is where I write about my research in this area and other projects.
 You can read more about why I started this blog in [this post]({{< ref "/about-events" >}} "About events").
 
-Have a question? Get in touch on nicholasmamo@gmail.com!
+Have a question? Get in touch on nicholasmamo@gmail.com or connect with me below!
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=black)](https://www.linkedin.com/in/nicholas-mamo-74751166/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black)](mailto:nicholasmamo@gmail.com)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white&color=black)](https://www.researchgate.net/profile/Nicholas-Mamo-2/)
+[![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white&color=black)](https://scholar.google.com/citations?user=TjmVrK4AAAAJ&hl=en)
