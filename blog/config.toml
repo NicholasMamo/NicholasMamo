@@ -7,3 +7,11 @@ googleAnalytics = "G-8L2KYY5HMZ"
 
 [params]
 enableGoogleAnalytics = true
+
+[[params.Links]]
+  name = 'About'
+  path = '/pages/about'
+
+[[params.Links]]
+  name = 'Publications'
+  path = '/pages/publications'
