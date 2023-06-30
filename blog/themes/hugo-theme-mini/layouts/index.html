@@ -5,21 +5,23 @@
     {{ $pages := .Site.RegularPages }}
     {{ $paginator := .Paginate ($pages) }}
     {{ range $paginator.Pages }}
-        {{ $title := .Title }}
-        {{ $summary := .Summary }}
-        <section class="item">
-          <div>
-            <h1 class="title"><a href='{{ .RelPermalink }}'>{{ $title }}</a></h1>
-            <div class ="date">
-                <time datetime="{{ .PublishDate }}">{{ i18n "publishDate" . }}</time>  
-            </div>
-          </div>
+    	{{ if ne .Title "About" }}
+		{{ $title := .Title }}
+		{{ $summary := .Summary }}
+		<section class="item">
+		  <div>
+		    <h1 class="title"><a href='{{ .RelPermalink }}'>{{ $title }}</a></h1>
+		    <div class ="date">
+		        <time datetime="{{ .PublishDate }}">{{ i18n "publishDate" . }}</time>  
+		    </div>
+		  </div>
 
-          {{ if ne .Site.Params.hiddenPostSummaryInHomePage true }}
-              <div class="summary">{{ $summary | plainify | htmlUnescape }}</div>
-          {{ end }}
+		  {{ if ne .Site.Params.hiddenPostSummaryInHomePage true }}
+		      <div class="summary">{{ $summary | plainify | htmlUnescape }}</div>
+		  {{ end }}
 
-        </section>
+		</section>
+	{{ end }}
     {{ end }}
 
     {{ if or ($paginator.HasPrev) ($paginator.HasNext) }}
