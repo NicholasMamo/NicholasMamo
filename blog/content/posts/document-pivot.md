@@ -1,5 +1,5 @@
 ---
-title: "Document-pivot algorithms"
+title: "Document-pivot algorithms: a brief introduction"
 date: 2020-07-27T12:32:40+02:00
 draft: false
 tags:

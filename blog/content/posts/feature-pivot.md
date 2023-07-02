@@ -1,5 +1,5 @@
 ---
-title: "Feature-pivot algorithms"
+title: "Feature-pivot algorithms: a brief introduction"
 date: 2020-08-06T13:01:33+02:00
 draft: false
 tags:
