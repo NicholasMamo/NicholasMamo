@@ -15,6 +15,9 @@ EU law forcing Twitter to share data
 
 Or Reddit (live threads or /r/all)
 
+But should we stick with one social network?
+Even Reddit is restricting API access
+
 ## The fediverse
 
 - aggregating content from multiple social networks
