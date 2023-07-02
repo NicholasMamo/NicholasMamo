@@ -1,5 +1,5 @@
 ---
-title: "If Machines Could Watch Football"
+title: "If machines could watch football"
 date: 2020-07-17T12:04:45+02:00
 draft: false
 tags: 

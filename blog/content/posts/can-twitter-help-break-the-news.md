@@ -1,5 +1,5 @@
 ---
-title: "Can Twitter Help Break the News?"
+title: "Can Twitter help break the news?"
 date: 2022-07-26T14:19:25+02:00
 draft: false
 tags:

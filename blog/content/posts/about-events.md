@@ -1,5 +1,5 @@
 ---
-title: "About Events"
+title: "About events"
 slug: about-me
 date: 2020-07-16T17:01:17+02:00
 tags:
