@@ -3,7 +3,8 @@ languageCode = "en-us"
 title = "Thinking Topics"
 theme = 'paper'
 canonifyUrls = true
-googleAnalytics = "G-G58TMS2KHS"
+# googleAnalytics = "G-G58TMS2KHS"
+googleAnalytics = "G-8L2KYY5HMZ"
 
 [params]
 enableGoogleAnalytics = true
