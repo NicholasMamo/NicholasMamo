@@ -21,7 +21,7 @@ linkedin = 'nicholas-mamo'             # linkedin.com/in/YOUR_LINKEDIN_ID
 # home page profile
 avatar = 'nicholasmamo@gmail.com'                 # gravatar email or image url
 name = 'Nicholas Mamo'
-bio = 'PhD in AI'
+bio = 'Published researcher and PhD in AI'
 
 # misc
 disableHLJS = true                        # disable highlight.js
